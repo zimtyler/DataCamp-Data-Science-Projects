@@ -1,4 +1,4 @@
-# Investigating Netflix Movies and Gueest Stars in The Office
+# Investigating Netflix Movies
 ```
 # Create the years and durations lists
 years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
